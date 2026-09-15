@@ -1,0 +1,51 @@
+{
+  "header": {
+    "resultMsg": "대한민국 정책브리핑에서 확인한 AI 관련 보도자료 (2026-09-07 ~ 2026-09-14)",
+    "resultCode": "00"
+  },
+  "body": {
+    "items": {
+      "item": [
+        {
+          "itemId": "MSIT-156781556",
+          "title": "한-중앙아시아 미래 인공지능·과학기술 동반관계(파트너십) 장관회의 개최",
+          "dataContents": "한-중앙아시아 간 인공지능과 과학기술 분야 협력 확대를 논의하는 장관회의 개최 내용을 안내합니다.",
+          "writerName": "과학기술정보통신부", "writerPosition": "과학기술정보통신부", "writerPhone": "", "writerEmail": "", "viewUrl": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781556&pWiseMinistry=ministryNews&repCode=A00033&repCodeType=%EC%A0%95%EB%B6%80%EB%B6%80%EC%B2%98", "fileName": "", "fileUrl": "", "regDate": "2026-09-14"
+        },
+        {
+          "itemId": "MSIT-156781127",
+          "title": "류제명 과기정통부 2차관, 보츠와나 부통령 면담… 인공지능·디지털 협력 방안 논의",
+          "dataContents": "보츠와나와 인공지능 및 디지털 분야의 협력 방안을 논의한 면담 내용을 소개합니다.",
+          "writerName": "과학기술정보통신부", "writerPosition": "과학기술정보통신부", "writerPhone": "", "writerEmail": "", "viewUrl": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156781127", "fileName": "", "fileUrl": "", "regDate": "2026-09-10"
+        },
+        {
+          "itemId": "MSIT-156780865",
+          "title": "과기정통부, 인공지능 데이터센터(AIDC) 특별법 하위법령 마련을 위한 공개토론회 개최",
+          "dataContents": "인공지능 데이터센터 특별법의 하위법령 마련을 위한 공개토론회 개최 내용을 담았습니다.",
+          "writerName": "과학기술정보통신부", "writerPosition": "과학기술정보통신부", "writerPhone": "", "writerEmail": "", "viewUrl": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780865&pWiseMinistry=ministryNews&repCode=A00033&repCodeType=%EC%A0%95%EB%B6%80%EB%B6%80%EC%B2%98", "fileName": "", "fileUrl": "", "regDate": "2026-09-09"
+        },
+        {
+          "itemId": "MOECO-156780841",
+          "title": "에이펙(APEC) 에너지장관회의, 에너지 안보 공조와 인공지능 시대 에너지 혁신 논의",
+          "dataContents": "APEC 에너지장관회의에서 에너지 안보 공조와 인공지능 시대의 에너지 혁신을 논의한 내용입니다.",
+          "writerName": "기후에너지환경부", "writerPosition": "기후에너지환경부", "writerPhone": "", "writerEmail": "", "viewUrl": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780841&pWise=sub&pWiseSub=C5", "fileName": "", "fileUrl": "", "regDate": "2026-09-09"
+        },
+        {
+          "itemId": "MOFA-156780886",
+          "title": "외교부, 「2026 세계신안보포럼」 개최",
+          "dataContents": "AI·드론·우주 등 신흥기술이 바꾸는 안보 환경과 국제 협력 논의를 다룬 세계신안보포럼 개최 자료입니다.",
+          "writerName": "외교부", "writerPosition": "외교부", "writerPhone": "", "writerEmail": "", "viewUrl": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780886", "fileName": "", "fileUrl": "", "regDate": "2026-09-09"
+        },
+        {
+          "itemId": "MSIT-156780527",
+          "title": "과기정통부-중기부, 물리적 인공지능(피지컬 AI)으로 중소제조 현장의 미래를 연다",
+          "dataContents": "피지컬 AI와 스마트제조혁신을 결합해 중소 제조 현장의 인공지능 도입·확산을 지원하는 내용을 소개합니다.",
+          "writerName": "과학기술정보통신부", "writerPosition": "과학기술정보통신부·중소벤처기업부", "writerPhone": "", "writerEmail": "", "viewUrl": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780527&pWise=main&pWiseMain=L3", "fileName": "", "fileUrl": "", "regDate": "2026-09-07"
+        }
+      ]
+    },
+    "numOfRows": "20",
+    "pageNo": "1",
+    "totalCount": "6"
+  }
+}
